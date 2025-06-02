@@ -5,20 +5,46 @@
 }
 
 body {
-    background-color: whitesmoke;
+    background-color: rgb(255, 255, 255);
 }
 
 .container {
     width: 1111px;
     margin: 0 auto;
-    border: 2px solid red;
+    /* border: 2px solid red; */
 }
+
+/* section */
+
+.top {
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.pass {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 25px;
+}
+
+.logo {
+        width: 255px;
+height: 103px;
+top: 1061px;
+left: 735px;
+border-radius: 10px;
+background-color: #F1FAF9;
+border: none;
+}
+
 
 /* section_3  */
 
 .services {
     display: flex;
     justify-content: space-between;
+    margin-top: 100px;
 }
 
 .text_h1 {
@@ -58,4 +84,93 @@ font-size: 18px;
 line-height: 30px;
 letter-spacing: 0%;
 margin-top: 50px;
+}
+
+.bigger_div {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 100px;
+}
+
+.icon {
+    width: 80px;
+height: 80px;
+top: 1658px;
+left: 165px;
+opacity: 0.8;
+border-radius: 20px;
+border: none;
+background-color: #DBFFE9;
+}
+
+.icon_2 {
+    width: 80px;
+height: 80px;
+top: 1658px;
+left: 165px;
+opacity: 0.8;
+border-radius: 20px;
+border: none;
+background-color: #FFF7CA;
+}
+
+.icon_3 {
+    width: 80px;
+height: 80px;
+top: 1658px;
+left: 165px;
+opacity: 0.8;
+border-radius: 20px;
+border: none;
+background-color:#FFE9E0;
+}
+
+.plans {
+    margin-top: 20px;
+    width: 302px;
+height: 28px;
+top: 1768px;
+left: 165px;
+font-family: Roboto;
+font-weight: 700;
+font-size: 24px;
+line-height: 100%;
+letter-spacing: 0%;
+
+
+}
+
+.every {
+    margin-top: 20px;
+    width: 281px;
+height: 77;
+top: 1816px;
+left: 568px;
+font-family: Roboto;
+font-weight: 400;
+font-size: 15px;
+}
+
+.btn_tree {
+    margin-top: 30px;
+    border: none;
+    background-color: rgb(255, 255, 255);
+}
+
+.btn_tree_in {
+    margin-top: 30px;
+    border: none;
+    background-color: rgb(255, 255, 255);
+    width: 203px;
+height: 57px;
+top: 1921px;
+left: 565px;
+border-radius: 31.5px;
+background-color: #FF823B;
+color: white;
+}
+
+.icons {
+    color: white;
+    transform: translateY(26%);
 }
