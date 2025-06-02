@@ -9,7 +9,53 @@ body {
 }
 
 .container {
-    width: 1440px;
+    width: 1111px;
     margin: 0 auto;
+    border: 2px solid red;
 }
 
+/* section_3  */
+
+.services {
+    display: flex;
+    justify-content: space-between;
+}
+
+.text_h1 {
+    width: 534px;
+height: 154px;
+top: 1434px;
+left: 164px;
+font-family: Poppins;
+font-weight: 700;
+font-size: 44px;
+line-height: 80px;
+letter-spacing: 0%;
+}
+
+.servis_p {
+    width: 73px;
+height: 22px;
+top: 1404px;
+left: 186px;
+font-family: Roboto;
+font-weight: 500;
+font-size: 16px;
+line-height: 100%;
+letter-spacing: 10%;
+color: #FF6107;
+margin-left: 30px;
+}
+
+.want {
+    width: 428px;
+height: 90px;
+top: 1468px;
+left: 809px;
+font-family: Roboto;
+font-weight: 400;
+font-size: 18px;
+line-height: 30px;
+letter-spacing: 0%;
+margin-top: 50px;
+}
