@@ -364,6 +364,138 @@ color: #464646;
 margin-top: 30px;
 }
 
+/* section_5 */
 
+
+.first {
+    margin-top: 250px;
+}
+
+.blog_p {
+    display: flex;
+    justify-content: center;
+}
+
+
+.week {
+    display: flex;
+    justify-content: center;
+}
+
+.motto {
+    display: flex;
+    justify-content: center;
+}
+
+.last_div {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 100px;
+}
+
+.week_day {
+    width: 75px;
+height: 75px;
+top: 3995px;
+left: 610px;
+border-radius: 10px;
+background-color: #124F48;
+transform: translateY(-500%);
+margin-left: 460px;
+}
+
+.six_ol {
+    display: flex;
+    justify-content: center;
+    transform: translateY(18%);
+    font-size: 24px;
+    font-family: Roboto;
+font-weight: 700;
+font-size: 24px;
+line-height: 30px;
+letter-spacing: 0%;
+color: #DBFFE9;
+}
+
+.week_day_1 {
+    width: 75px;
+height: 75px;
+top: 3995px;
+left: 610px;
+border-radius: 10px;
+background-color: #124F48;
+transform: translateY(-460%);
+margin-left: 420px;
+}
+
+.startups {
+    width: 463px;
+height: 30px;
+top: 4368px;
+left: 185px;
+font-family: Roboto;
+font-weight: 700;
+font-size: 24px;
+line-height: 30px;
+letter-spacing: 0%;
+color: black;
+}
+
+.team {
+    margin-top: -29px;
+        width: 463px;
+height: 30px;
+top: 4368px;
+left: 185px;
+font-family: Roboto;
+font-weight: 700;
+font-size: 24px;
+line-height: 30px;
+letter-spacing: 0%;
+color: black;
+}
+
+.world_p {
+    margin-top: 20px;
+    width: 496px;
+height: 90px;
+top: 4433px;
+left: 185px;
+font-family: Roboto;
+font-weight: 400;
+font-size: 18px;
+line-height: 30px;
+letter-spacing: 0%;
+
+}
+
+.more_btn {
+    margin-top: 30px;
+    width: 203px;
+height: 57px;
+top: 4568px;
+left: 185px;
+border-radius: 31.5px;
+background-color: #FF6107;
+color: #F1FAF9;
+border: none;  
+}
+
+.more_btn_1 {
+    margin-top: 30px;
+    font-family: Roboto;
+    font-size: 18px;
+    font-weight: 700;
+border-radius: 31.5px;
+background-color: #ffffff;
+color: #000000;
+border: none;  
+
+}
+
+.burning {
+    transform: translateY(20%);
+    margin-left: 10px;
+}
 
 
