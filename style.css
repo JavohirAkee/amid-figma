@@ -14,11 +14,56 @@ body {
     /* border: 2px solid red; */
 }
 
+.navbar {
+    margin: 0 auto;
+    width: 1094px;
+    height: 57px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.navbar img {
+    width: 118px;
+    height: 42px;
+}
+
+.navbar ul {
+    display: flex;
+    list-style: none;
+    gap: 62px;
+}
+
+.navbar a {
+    text-decoration: none;
+    font-family: Roboto;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: #464646;
+}
+.first-button {
+width: 127px;
+height: 57px;
+top: 40px;
+left: 1149px;
+border-radius: 31.5px;
+padding-top: 18px;
+padding-right: 39px;
+padding-bottom: 18px;
+padding-left: 39px;
+gap: 10px;
+background-color: #124F48;
+border: none;
+color: white;
+}
 /* section */
 
 .top {
     display: flex;
     justify-content: space-between;
+    margin-top: 100px;
 
 }
 
